@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## :ledger: Articles: 
-- [Kotlin coroutine (in russian)](https://github.com/Dankosik/Dankosik/blob/main/articles/coroutine.md)
+- [Kotlin coroutine](https://github.com/Dankosik/Dankosik/blob/main/articles/coroutine.md) (in russian)
 
 
 ## :chart_with_downwards_trend: GitHub stats
