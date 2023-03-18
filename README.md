@@ -13,4 +13,4 @@
 [STOCK API](https://github.com/Dankosik/stock-api) <br/>
 [YAHOO STOCK API](https://github.com/Dankosik/yahoo-stock-api) <br/>
 [MOEX STOCK API](https://github.com/Dankosik/moex-stock-api) <br/>
-Private: tinkoff-trading-bot
+Private: tinkoff-trading-bot [(Tinkoff/investAPI)](https://github.com/Tinkoff/investAPI/)
