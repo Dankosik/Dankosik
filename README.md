@@ -11,6 +11,3 @@
 
 ## :rainbow: Current projects
 Private: tinkoff-trading-bot [(Tinkoff/investAPI)](https://github.com/Tinkoff/investAPI/) + [(Finam/trade-api)](https://github.com/FinamWeb/trade-api-docs) <br/>
-[STOCK API](https://github.com/Dankosik/stock-api) <br/>
-[YAHOO STOCK API](https://github.com/Dankosik/yahoo-stock-api) <br/>
-[MOEX STOCK API](https://github.com/Dankosik/moex-stock-api) <br/>
