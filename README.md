@@ -2,7 +2,7 @@
 
 ## Articles: 
 - [Kotlin coroutine](https://github.com/Dankosik/Dankosik/blob/main/articles/coroutine.md)
-- [Invest Starter Java Sdk](https://github.com/Dankosik/Dankosik/blob/main/articles/invest-starter-first.md.md)
+- [Invest Starter Java Sdk](https://github.com/Dankosik/Dankosik/blob/main/articles/invest-starter-first.md)
 
 
 ## :chart_with_downwards_trend: GitHub stats
