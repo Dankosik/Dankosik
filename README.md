@@ -13,3 +13,5 @@
 ## Current projects
 Main open source: Spring boot starter [invest-api-java-sdk-starter](https://github.com/Dankosik/invest-api-java-sdk-starter) for [(RussianInvestments/invest-api-java-sdk)](https://github.com/RussianInvestments/invest-api-java-sdk) <br/>
 Private: tinkoff-trading-bot [(Tinkoff/investAPI)](https://github.com/Tinkoff/investAPI/) + [(Finam/trade-api)](https://github.com/FinamWeb/trade-api-docs) <br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dankosik&repo=invest-api-java-sdk-starter)](https://github.com/Dankosik/invest-api-java-sdk-starter)
