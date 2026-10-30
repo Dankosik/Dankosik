@@ -36,10 +36,6 @@ Focused instructions for specific engineering decisions and development workflow
 
 Browse the [skills marketplace](https://github.com/Dankosik/agent-skills-marketplace) for language packs and Super Review.
 
-## <img src="assets/icons/folder-git-2.svg" width="22" height="22" alt="" /> Other projects
-
-[**invest-api-java-sdk-starter**](https://github.com/Dankosik/invest-api-java-sdk-starter) — A Spring Boot starter for Tinkoff Invest API, with streaming subscriptions and annotation-based event handlers. Examples: [Java](https://github.com/Dankosik/invest-starter-demo-java) · [Kotlin](https://github.com/Dankosik/invest-starter-demo).
-
 ---
 
 **Let’s connect:** [Telegram](https://t.me/KorytoDaniil)
