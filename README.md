@@ -31,6 +31,7 @@ Focused instructions for specific engineering decisions and development workflow
 | [golang-backend-skills](https://github.com/Dankosik/golang-backend-skills) | Go backend development. |
 | [java-backend-skills](https://github.com/Dankosik/java-backend-skills) | Java and Spring backend development. |
 | [fastify-backend-skills](https://github.com/Dankosik/fastify-backend-skills) | TypeScript and Fastify backend development. |
+| [rust-backend-skills](https://github.com/Dankosik/rust-backend-skills) | Rust backend development with Tokio, axum, and SQLx. |
 | [rust-cli-skills](https://github.com/Dankosik/rust-cli-skills) | Rust command-line utilities, performance, and memory use. |
 | [yandex-tone-of-voice-skill](https://github.com/Dankosik/yandex-tone-of-voice-skill) | Writing and reviewing Russian product copy using Yandex’s published tone-of-voice guidelines. |
 
