@@ -1,6 +1,6 @@
 # Hi, I’m Daniil
 
-I tools for developers working with AI coding agents.
+I build tools for developers working with AI coding agents.
 
 My open-source projects cover Go and Rust service templates, agent tooling, and focused engineering skills.
 
